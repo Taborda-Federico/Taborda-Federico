@@ -1,11 +1,23 @@
 <h1 align="center">Soy <a href="https://github.com/Taborda-Federico">Federico Taborda</a><a href="https://github.com/Taborda-Federico"><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></a></h1>
 
-<table style="width: 100%; border: 1px solid #444; border-collapse: collapse;">
+<h3 align="center">My Favorite Repos</h3>
+<div>
+<p align="center">
+<a href="https://github.com/Taborda-Federico/BASH-IN-C.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taborda-Federico&repo=BASH-IN-C&theme=dark&border_color=FFFFFF" alt="BASH-IN-C Stats" />
+</a>
+<a href="https://github.com/Taborda-Federico/TRANSPORTE-1-.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taborda-Federico&repo=TRANSPORTE-1-&theme=dark&border_color=FFFFFF" alt="TRANSPORTE-1- Stats" />
+</a>
+  </p>
+</div>
+<h1 align="center"><a href="https://github.com/Taborda-Federico"></a><a href="https://github.com/Taborda-Federico"></a></h1>
+<table align="center"">
   <tr>
     <td valign="top" style="width: 50%; padding: 15px; border-right: 1px solid #444;">
       <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
       <br>
-      <p>
+    <p align="center">
         <strong>Languages:</strong><br>
         <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
         <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -26,16 +38,7 @@
     </td>
   </tr>
 </table>
-<h1>My Favorite Repos</h1>
 
-<div>
-  <p>
-<a href="https://github.com/Taborda-Federico/BASH-IN-C.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taborda-Federico&repo=BASH-IN-C&theme=dark&border_color=FFFFFF" alt="BASH-IN-C Stats" />
-</a>
-<a href="https://github.com/Taborda-Federico/TRANSPORTE-1-.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taborda-Federico&repo=TRANSPORTE-1-&theme=dark&border_color=FFFFFF" alt="TRANSPORTE-1- Stats" />
-</a>
-  </p>
-</div>
+
+
 
